@@ -126,7 +126,7 @@
                 <active>1</active>
                 <model>pay/pay</model>
                 <order_status>processing</order_status>
-                <title>Excellence Payment Method</title>
+                <title>Storm Payment Method</title>
             </pay>
          </payment>
     </default>
@@ -153,7 +153,7 @@
         <general>
             <locale>
                 <code>en_US</code>
-                <timezone>America/Los_Angeles</timezone>
+                <timezone>America/New_York</timezone>
             </locale>
         </general>
     </default>
